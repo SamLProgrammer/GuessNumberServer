@@ -1,0 +1,5 @@
+2020-05-15 at: 23:42:48.639 Server started a round with guess number: 4 and these players: a, 
+2020-05-15 at: 23:42:52.757 Client at: [/127.0.0.1] With name: a Sent try [1]: 4 Player guessed the number
+2020-05-15 at: 23:42:52.761 Round finished with these players: a, 
+2020-05-15 at: 23:42:52.761 Round finished with Rank: 1) a At Try: 1, 
+2020-05-15 at: 23:42:55.621 Client at: [/127.0.0.1] With name: a decided to play again

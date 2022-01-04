@@ -1,0 +1,232 @@
+2020-05-12 at: 12:10:55.495 With SocketAdress: [/127.0.0.1:62138] tryed to toin to Server
+2020-05-12 at: 12:10:55.499 With SocketAdress: [/127.0.0.1:62138] Successfully joined To Server
+2020-05-12 at: 12:11:01.982 With SocketAdress: [/127.0.0.1:62139] tryed to toin to Server
+2020-05-12 at: 12:11:01.983 With SocketAdress: [/127.0.0.1:62139] Successfully joined To Server
+2020-05-12 at: 12:11:08.149 With SocketAdress: [/127.0.0.1:62140] tryed to toin to Server
+2020-05-12 at: 12:11:08.150 With SocketAdress: [/127.0.0.1:62140] Successfully joined To Server
+2020-05-12 at: 12:11:15.026 With SocketAdress: [/127.0.0.1:62141] tryed to toin to Server
+2020-05-12 at: 12:11:15.027 With SocketAdress: [/127.0.0.1:62141] Successfully joined To Server
+2020-05-12 at: 12:12:21.346 With SocketAdress: /127.0.0.1:62140 Got removed from server
+2020-05-12 at: 12:12:31.383 With SocketAdress: /127.0.0.1:62139 Got removed from server
+2020-05-12 at: 12:12:31.760 With SocketAdress: /127.0.0.1:62139 Got removed by brute force
+2020-05-12 at: 12:13:24.337 With SocketAdress: /127.0.0.1:62141 Got removed by brute force
+2020-05-12 at: 12:13:25.826 With SocketAdress: /127.0.0.1:62138 Got removed by brute force
+2020-05-12 at: 12:13:51.771 With SocketAdress: [/127.0.0.1:62147] tryed to toin to Server
+2020-05-12 at: 12:13:51.774 With SocketAdress: [/127.0.0.1:62147] Successfully joined To Server
+2020-05-12 at: 12:13:57.499 With SocketAdress: [/127.0.0.1:62148] tryed to toin to Server
+2020-05-12 at: 12:13:57.500 With SocketAdress: [/127.0.0.1:62148] Successfully joined To Server
+2020-05-12 at: 12:14:02.479 With SocketAdress: [/127.0.0.1:62149] tryed to toin to Server
+2020-05-12 at: 12:14:02.480 With SocketAdress: [/127.0.0.1:62149] Successfully joined To Server
+2020-05-12 at: 12:14:07.680 With SocketAdress: [/127.0.0.1:62150] tryed to toin to Server
+2020-05-12 at: 12:14:07.681 With SocketAdress: [/127.0.0.1:62150] Successfully joined To Server
+2020-05-12 at: 12:14:41.904 With SocketAdress: /127.0.0.1:62150 Got removed by brute force
+2020-05-12 at: 12:14:43.408 With SocketAdress: /127.0.0.1:62149 Got removed by brute force
+2020-05-12 at: 12:14:44.858 With SocketAdress: /127.0.0.1:62148 Got removed by brute force
+2020-05-12 at: 12:14:46.651 With SocketAdress: /127.0.0.1:62147 Got removed by brute force
+2020-05-12 at: 12:25:04.168 With SocketAdress: [/127.0.0.1:62215] tryed to toin to Server
+2020-05-12 at: 12:25:04.177 With SocketAdress: [/127.0.0.1:62215] Successfully joined To Server
+2020-05-12 at: 12:26:42.861 With SocketAdress: /127.0.0.1:62215 Got removed by brute force
+2020-05-12 at: 12:27:10.843 With SocketAdress: [/127.0.0.1:62264] tryed to toin to Server
+2020-05-12 at: 12:27:10.843 With SocketAdress: [/127.0.0.1:62264] Successfully joined To Server
+2020-05-12 at: 12:28:11.207 With SocketAdress: /127.0.0.1:62264 Got removed from server
+2020-05-12 at: 12:30:49.281 With SocketAdress: [/127.0.0.1:62399] tryed to toin to Server
+2020-05-12 at: 12:30:49.282 With SocketAdress: [/127.0.0.1:62399] Successfully joined To Server
+2020-05-12 at: 12:31:26.758 With SocketAdress: [/127.0.0.1:62415] tryed to toin to Server
+2020-05-12 at: 12:31:26.759 With SocketAdress: [/127.0.0.1:62415] Successfully joined To Server
+2020-05-12 at: 12:31:49.337 With SocketAdress: /127.0.0.1:62399 Got removed from server
+2020-05-12 at: 12:33:31.425 With SocketAdress: /127.0.0.1:62415 Got removed by brute force
+2020-05-12 at: 12:33:51.449 With SocketAdress: [/127.0.0.1:62422] tryed to toin to Server
+2020-05-12 at: 12:33:51.453 With SocketAdress: [/127.0.0.1:62422] Successfully joined To Server
+2020-05-12 at: 12:34:51.578 With SocketAdress: /127.0.0.1:62422 Got removed from server
+2020-05-12 at: 12:35:01.591 With SocketAdress: /127.0.0.1:62422 Got removed from server
+2020-05-12 at: 12:35:01.591 With SocketAdress: /127.0.0.1:62422 Got isconnected by brute force
+2020-05-12 at: 12:35:06.571 With SocketAdress: [/127.0.0.1:62423] tryed to toin to Server
+2020-05-12 at: 12:35:06.572 With SocketAdress: [/127.0.0.1:62423] Successfully joined To Server
+2020-05-12 at: 12:35:25.265 With SocketAdress: [/127.0.0.1:62424] tryed to toin to Server
+2020-05-12 at: 12:35:25.265 With SocketAdress: [/127.0.0.1:62424] Successfully joined To Server
+2020-05-12 at: 12:35:46.668 With SocketAdress: /127.0.0.1:62423 Got removed from server
+2020-05-12 at: 12:35:56.682 With SocketAdress: /127.0.0.1:62423 Got removed from server
+2020-05-12 at: 12:35:56.682 With SocketAdress: /127.0.0.1:62423 Got isconnected by brute force
+2020-05-12 at: 12:35:57.929 With SocketAdress: /127.0.0.1:62424 Got removed by brute force
+2020-05-12 at: 18:04:47.401 With SocketAdress: [/127.0.0.1:50985] tryed to toin to Server
+2020-05-12 at: 18:04:47.412 With SocketAdress: [/127.0.0.1:50985] Successfully joined To Server
+2020-05-12 at: 18:05:26.443 With SocketAdress: [/127.0.0.1:50986] tryed to toin to Server
+2020-05-12 at: 18:05:26.444 With SocketAdress: [/127.0.0.1:50986] Successfully joined To Server
+2020-05-12 at: 18:09:05.680 With SocketAdress: /127.0.0.1:50986 Got removed by brute force
+2020-05-12 at: 18:09:08.008 With SocketAdress: /127.0.0.1:50985 Got removed by brute force
+2020-05-12 at: 18:11:44.611 With SocketAdress: [/127.0.0.1:51002] tryed to toin to Server
+2020-05-12 at: 18:11:44.615 With SocketAdress: [/127.0.0.1:51002] Successfully joined To Server
+2020-05-12 at: 18:12:23.565 With SocketAdress: [/127.0.0.1:51003] tryed to toin to Server
+2020-05-12 at: 18:12:23.566 With SocketAdress: [/127.0.0.1:51003] Successfully joined To Server
+2020-05-12 at: 18:12:30.327 With SocketAdress: /127.0.0.1:51003 Got removed by brute force
+2020-05-12 at: 18:12:32.690 With SocketAdress: /127.0.0.1:51002 Got removed by brute force
+2020-05-12 at: 18:13:05.810 With SocketAdress: [/127.0.0.1:51004] tryed to toin to Server
+2020-05-12 at: 18:13:05.812 With SocketAdress: [/127.0.0.1:51004] Successfully joined To Server
+2020-05-12 at: 18:13:10.562 With SocketAdress: [/127.0.0.1:51005] tryed to toin to Server
+2020-05-12 at: 18:13:10.563 With SocketAdress: [/127.0.0.1:51005] Successfully joined To Server
+2020-05-12 at: 18:13:16.866 With SocketAdress: [/127.0.0.1:51006] tryed to toin to Server
+2020-05-12 at: 18:13:16.866 With SocketAdress: [/127.0.0.1:51006] Successfully joined To Server
+2020-05-12 at: 18:13:41.788 With SocketAdress: [/127.0.0.1:51007] tryed to toin to Server
+2020-05-12 at: 18:13:41.789 With SocketAdress: [/127.0.0.1:51007] Successfully joined To Server
+2020-05-12 at: 18:14:34.742 With SocketAdress: /127.0.0.1:51007 Got removed by brute force
+2020-05-12 at: 18:14:36.239 With SocketAdress: /127.0.0.1:51006 Got removed by brute force
+2020-05-12 at: 18:14:37.644 With SocketAdress: /127.0.0.1:51005 Got removed by brute force
+2020-05-12 at: 18:14:39.073 With SocketAdress: /127.0.0.1:51004 Got removed by brute force
+2020-05-12 at: 18:14:54.590 With SocketAdress: [/127.0.0.1:51008] tryed to toin to Server
+2020-05-12 at: 18:14:54.594 With SocketAdress: [/127.0.0.1:51008] Successfully joined To Server
+2020-05-12 at: 18:14:59.619 With SocketAdress: [/127.0.0.1:51012] tryed to toin to Server
+2020-05-12 at: 18:14:59.620 With SocketAdress: [/127.0.0.1:51012] Successfully joined To Server
+2020-05-12 at: 18:15:04.988 With SocketAdress: [/127.0.0.1:51015] tryed to toin to Server
+2020-05-12 at: 18:15:04.989 With SocketAdress: [/127.0.0.1:51015] Successfully joined To Server
+2020-05-12 at: 18:15:11.465 With SocketAdress: [/127.0.0.1:51016] tryed to toin to Server
+2020-05-12 at: 18:15:11.466 With SocketAdress: [/127.0.0.1:51016] Successfully joined To Server
+2020-05-12 at: 18:15:52.147 With SocketAdress: [/127.0.0.1:51017] tryed to toin to Server
+2020-05-12 at: 18:15:52.148 With SocketAdress: [/127.0.0.1:51017] Successfully joined To Server
+2020-05-12 at: 18:15:55.394 With SocketAdress: /127.0.0.1:51017 Got removed by brute force
+2020-05-12 at: 18:15:56.759 With SocketAdress: /127.0.0.1:51016 Got removed by brute force
+2020-05-12 at: 18:15:58.335 With SocketAdress: /127.0.0.1:51015 Got removed by brute force
+2020-05-12 at: 18:15:59.975 With SocketAdress: /127.0.0.1:51012 Got removed by brute force
+2020-05-12 at: 18:16:01.558 With SocketAdress: /127.0.0.1:51008 Got removed by brute force
+2020-05-12 at: 19:28:58.287 With SocketAdress: [/127.0.0.1:51528] tryed to toin to Server
+2020-05-12 at: 19:28:58.292 With SocketAdress: [/127.0.0.1:51528] Successfully joined To Server
+2020-05-12 at: 19:30:37.882 With SocketAdress: [/127.0.0.1:51529] tryed to toin to Server
+2020-05-12 at: 19:30:37.883 With SocketAdress: [/127.0.0.1:51529] Successfully joined To Server
+2020-05-12 at: 19:30:51.200 With SocketAdress: [/127.0.0.1:51531] tryed to toin to Server
+2020-05-12 at: 19:30:51.205 With SocketAdress: [/127.0.0.1:51531] Successfully joined To Server
+2020-05-12 at: 19:34:30.163 With SocketAdress: /127.0.0.1:51528 Got removed from server
+2020-05-12 at: 19:34:40.191 With SocketAdress: /127.0.0.1:51528 Got removed from server
+2020-05-12 at: 19:34:40.192 With SocketAdress: /127.0.0.1:51528 Got isconnected by brute force
+2020-05-12 at: 19:39:38.671 With SocketAdress: /127.0.0.1:51529 Got removed from server
+2020-05-12 at: 19:39:38.683 With SocketAdress: /127.0.0.1:51531 Got removed from server
+2020-05-12 at: 19:39:48.710 With SocketAdress: /127.0.0.1:51531 Got removed from server
+2020-05-12 at: 19:39:48.710 With SocketAdress: /127.0.0.1:51531 Got isconnected by brute force
+2020-05-12 at: 19:41:31.985 With SocketAdress: [/127.0.0.1:51577] tryed to toin to Server
+2020-05-12 at: 19:41:31.993 With SocketAdress: [/127.0.0.1:51577] Successfully joined To Server
+2020-05-15 at: 22:37:39.557 With SocketAdress: [/127.0.0.1:50090] tryed to toin to Server
+2020-05-15 at: 22:37:39.568 With SocketAdress: [/127.0.0.1:50090] Successfully joined To Server
+2020-05-15 at: 22:37:51.289 With SocketAdress: /127.0.0.1:50090 Got removed by brute force
+2020-05-15 at: 22:54:50.938 With SocketAdress: [/127.0.0.1:50169] tryed to toin to Server
+2020-05-15 at: 22:54:50.942 With SocketAdress: [/127.0.0.1:50169] Successfully joined To Server
+2020-05-15 at: 22:55:50.618 With SocketAdress: /127.0.0.1:50169 Got removed from server
+2020-05-15 at: 22:55:50.956 With SocketAdress: /127.0.0.1:50169 Got removed by brute force
+2020-05-15 at: 22:56:43.851 With SocketAdress: [/127.0.0.1:50170] tryed to toin to Server
+2020-05-15 at: 22:56:43.855 With SocketAdress: [/127.0.0.1:50170] Successfully joined To Server
+2020-05-15 at: 22:57:58.076 With SocketAdress: /127.0.0.1:50170 Got removed from server
+2020-05-15 at: 22:57:58.417 With SocketAdress: /127.0.0.1:50170 Got removed by brute force
+2020-05-15 at: 23:00:18.451 With SocketAdress: [/127.0.0.1:50190] tryed to toin to Server
+2020-05-15 at: 23:00:18.454 With SocketAdress: [/127.0.0.1:50190] Successfully joined To Server
+2020-05-15 at: 23:01:19.808 With SocketAdress: /127.0.0.1:50190 Got removed by brute force
+2020-05-15 at: 23:01:55.041 With SocketAdress: [/127.0.0.1:50193] tryed to toin to Server
+2020-05-15 at: 23:01:55.046 With SocketAdress: [/127.0.0.1:50193] Successfully joined To Server
+2020-05-15 at: 23:02:34.382 With SocketAdress: /127.0.0.1:50193 Got removed from server
+2020-05-15 at: 23:02:34.387 With SocketAdress: /127.0.0.1:50193 Got removed by brute force
+2020-05-15 at: 23:08:10.421 With SocketAdress: [/127.0.0.1:50225] tryed to toin to Server
+2020-05-15 at: 23:08:10.425 With SocketAdress: [/127.0.0.1:50225] Successfully joined To Server
+2020-05-15 at: 23:08:26.327 With SocketAdress: [/127.0.0.1:50226] tryed to toin to Server
+2020-05-15 at: 23:08:26.328 With SocketAdress: [/127.0.0.1:50226] Successfully joined To Server
+2020-05-15 at: 23:08:31.195 With SocketAdress: /127.0.0.1:50225 Got removed from server
+2020-05-15 at: 23:08:31.650 With SocketAdress: /127.0.0.1:50225 Got removed by brute force
+2020-05-15 at: 23:11:54.187 With SocketAdress: [/127.0.0.1:50235] tryed to toin to Server
+2020-05-15 at: 23:11:54.192 With SocketAdress: [/127.0.0.1:50235] Successfully joined To Server
+2020-05-15 at: 23:12:12.432 With SocketAdress: /127.0.0.1:50235 Got removed by brute force
+2020-05-15 at: 23:12:52.825 With SocketAdress: [/127.0.0.1:50236] tryed to toin to Server
+2020-05-15 at: 23:12:52.829 With SocketAdress: [/127.0.0.1:50236] Successfully joined To Server
+2020-05-15 at: 23:13:38.831 With SocketAdress: /127.0.0.1:50236 Got removed from server
+2020-05-15 at: 23:15:04.261 With SocketAdress: /127.0.0.1:50236 Got removed by brute force
+2020-05-15 at: 23:15:19.402 With SocketAdress: [/127.0.0.1:50237] tryed to toin to Server
+2020-05-15 at: 23:15:19.406 With SocketAdress: [/127.0.0.1:50237] Successfully joined To Server
+2020-05-15 at: 23:15:36.343 With SocketAdress: /127.0.0.1:50237 Got removed by brute force
+2020-05-15 at: 23:16:53.025 With SocketAdress: [/127.0.0.1:50239] tryed to toin to Server
+2020-05-15 at: 23:16:53.028 With SocketAdress: [/127.0.0.1:50239] Successfully joined To Server
+2020-05-15 at: 23:17:13.935 With SocketAdress: /127.0.0.1:50239 Got removed from server
+2020-05-15 at: 23:17:14.267 With SocketAdress: /127.0.0.1:50239 Got removed by brute force
+2020-05-15 at: 23:24:34.813 With SocketAdress: [/127.0.0.1:50251] tryed to toin to Server
+2020-05-15 at: 23:24:34.819 With SocketAdress: [/127.0.0.1:50251] Successfully joined To Server
+2020-05-15 at: 23:25:41.841 With SocketAdress: /127.0.0.1:50251 Got removed by brute force
+2020-05-15 at: 23:26:06.946 With SocketAdress: [/127.0.0.1:50259] tryed to toin to Server
+2020-05-15 at: 23:26:06.951 With SocketAdress: [/127.0.0.1:50259] Successfully joined To Server
+2020-05-15 at: 23:26:44.772 With SocketAdress: [/127.0.0.1:50262] tryed to toin to Server
+2020-05-15 at: 23:26:44.777 With SocketAdress: [/127.0.0.1:50262] Successfully joined To Server
+2020-05-15 at: 23:31:01.847 With SocketAdress: [/127.0.0.1:50265] tryed to toin to Server
+2020-05-15 at: 23:31:01.853 With SocketAdress: [/127.0.0.1:50265] Successfully joined To Server
+2020-05-15 at: 23:32:37.147 With SocketAdress: [/127.0.0.1:50267] tryed to toin to Server
+2020-05-15 at: 23:32:37.152 With SocketAdress: [/127.0.0.1:50267] Successfully joined To Server
+2020-05-15 at: 23:32:54.232 With SocketAdress: /127.0.0.1:50267 Got removed from server
+2020-05-15 at: 23:32:54.575 With SocketAdress: /127.0.0.1:50267 Got removed by brute force
+2020-05-15 at: 23:33:22.127 With SocketAdress: [/127.0.0.1:50269] tryed to toin to Server
+2020-05-15 at: 23:33:22.128 With SocketAdress: [/127.0.0.1:50269] Successfully joined To Server
+2020-05-15 at: 23:33:44.525 With SocketAdress: /127.0.0.1:50269 Got removed from server
+2020-05-15 at: 23:33:44.855 With SocketAdress: /127.0.0.1:50269 Got removed by brute force
+2020-05-15 at: 23:34:24.746 With SocketAdress: [/127.0.0.1:50273] tryed to toin to Server
+2020-05-15 at: 23:34:24.750 With SocketAdress: [/127.0.0.1:50273] Successfully joined To Server
+2020-05-15 at: 23:34:35.955 With SocketAdress: /127.0.0.1:50273 Got removed by brute force
+2020-05-15 at: 23:35:03.681 With SocketAdress: [/127.0.0.1:50277] tryed to toin to Server
+2020-05-15 at: 23:35:03.686 With SocketAdress: [/127.0.0.1:50277] Successfully joined To Server
+2020-05-15 at: 23:35:28.712 With SocketAdress: /127.0.0.1:50277 Got removed from server
+2020-05-15 at: 23:35:29.057 With SocketAdress: /127.0.0.1:50277 Got removed by brute force
+2020-05-15 at: 23:37:34.706 With SocketAdress: [/127.0.0.1:50278] tryed to toin to Server
+2020-05-15 at: 23:37:34.710 With SocketAdress: [/127.0.0.1:50278] Successfully joined To Server
+2020-05-15 at: 23:38:59.806 With SocketAdress: [/127.0.0.1:50280] tryed to toin to Server
+2020-05-15 at: 23:38:59.810 With SocketAdress: [/127.0.0.1:50280] Successfully joined To Server
+2020-05-15 at: 23:39:49.845 With SocketAdress: /127.0.0.1:50280 Got removed by brute force
+2020-05-15 at: 23:41:09.768 With SocketAdress: [/127.0.0.1:50284] tryed to toin to Server
+2020-05-15 at: 23:41:09.772 With SocketAdress: [/127.0.0.1:50284] Successfully joined To Server
+2020-05-15 at: 23:41:45.355 With SocketAdress: /127.0.0.1:50284 Got removed by brute force
+2020-05-15 at: 23:42:44.507 With SocketAdress: [/127.0.0.1:50285] tryed to toin to Server
+2020-05-15 at: 23:42:44.510 With SocketAdress: [/127.0.0.1:50285] Successfully joined To Server
+2020-05-15 at: 23:44:24.795 With SocketAdress: [/127.0.0.1:50286] tryed to toin to Server
+2020-05-15 at: 23:44:24.798 With SocketAdress: [/127.0.0.1:50286] Successfully joined To Server
+2020-05-15 at: 23:44:35.338 With SocketAdress: /127.0.0.1:50286 Got removed from server
+2020-05-15 at: 23:44:45.346 With SocketAdress: /127.0.0.1:50286 Got removed from server
+2020-05-15 at: 23:44:45.356 With SocketAdress: /127.0.0.1:50286 Got removed by brute force
+2020-05-15 at: 23:45:16.006 With SocketAdress: [/127.0.0.1:50288] tryed to toin to Server
+2020-05-15 at: 23:45:16.007 With SocketAdress: [/127.0.0.1:50288] Successfully joined To Server
+2020-05-15 at: 23:46:21.453 With SocketAdress: /127.0.0.1:50288 Got removed by brute force
+2020-05-15 at: 23:47:03.587 With SocketAdress: [/127.0.0.1:50291] tryed to toin to Server
+2020-05-15 at: 23:47:03.590 With SocketAdress: [/127.0.0.1:50291] Successfully joined To Server
+2020-05-15 at: 23:47:29.101 With SocketAdress: /127.0.0.1:50291 Got isconnected by brute force
+2020-05-15 at: 23:47:29.103 With SocketAdress: /127.0.0.1:50291 Got isconnected by brute force
+2020-05-15 at: 23:50:19.786 With SocketAdress: [/127.0.0.1:50310] tryed to toin to Server
+2020-05-15 at: 23:50:19.789 With SocketAdress: [/127.0.0.1:50310] Successfully joined To Server
+2020-05-15 at: 23:51:16.426 With SocketAdress: /127.0.0.1:50310 Got removed by brute force
+2020-05-15 at: 23:52:24.742 With SocketAdress: [/127.0.0.1:50311] tryed to toin to Server
+2020-05-15 at: 23:52:24.746 With SocketAdress: [/127.0.0.1:50311] Successfully joined To Server
+2020-05-15 at: 23:52:51.155 With SocketAdress: /127.0.0.1:50311 Got removed by brute force
+2020-05-15 at: 23:55:30.458 With SocketAdress: [/127.0.0.1:50315] tryed to toin to Server
+2020-05-15 at: 23:55:30.462 With SocketAdress: [/127.0.0.1:50315] Successfully joined To Server
+2020-05-15 at: 23:55:53.700 With SocketAdress: /127.0.0.1:50315 Got removed by brute force
+2020-05-15 at: 23:56:53.610 With SocketAdress: [/127.0.0.1:50316] tryed to toin to Server
+2020-05-15 at: 23:56:53.614 With SocketAdress: [/127.0.0.1:50316] Successfully joined To Server
+2020-05-15 at: 23:57:46.198 With SocketAdress: /127.0.0.1:50316 Got isconnected by brute force
+2020-05-15 at: 23:57:46.200 With SocketAdress: /127.0.0.1:50316 Got isconnected by brute force
+2020-05-16 at: 00:04:37.179 With SocketAdress: [/127.0.0.1:50324] tryed to toin to Server
+2020-05-16 at: 00:04:37.182 With SocketAdress: [/127.0.0.1:50324] Successfully joined To Server
+2020-05-16 at: 00:04:56.016 With SocketAdress: /127.0.0.1:50324 Got removed by brute force
+2020-05-16 at: 00:05:18.384 With SocketAdress: [/127.0.0.1:50325] tryed to toin to Server
+2020-05-16 at: 00:05:18.384 With SocketAdress: [/127.0.0.1:50325] Successfully joined To Server
+2020-05-16 at: 00:05:32.612 With SocketAdress: /127.0.0.1:50325 Got removed from server
+2020-05-16 at: 00:05:32.615 With SocketAdress: /127.0.0.1:50325 Got removed by brute force
+2020-05-16 at: 00:05:42.511 With SocketAdress: [/127.0.0.1:50326] tryed to toin to Server
+2020-05-16 at: 00:05:42.512 With SocketAdress: [/127.0.0.1:50326] Successfully joined To Server
+2020-05-16 at: 00:06:06.470 With SocketAdress: /127.0.0.1:50326 Got removed by brute force
+2020-05-16 at: 00:07:36.579 With SocketAdress: [/127.0.0.1:50329] tryed to toin to Server
+2020-05-16 at: 00:07:36.583 With SocketAdress: [/127.0.0.1:50329] Successfully joined To Server
+2020-05-16 at: 00:07:53.046 With SocketAdress: /127.0.0.1:50329 Got removed from server
+2020-05-16 at: 00:09:13.930 With SocketAdress: [/127.0.0.1:50331] tryed to toin to Server
+2020-05-16 at: 00:09:13.935 With SocketAdress: [/127.0.0.1:50331] Successfully joined To Server
+2020-05-16 at: 00:09:31.058 With SocketAdress: /127.0.0.1:50331 Got removed from server
+2020-05-16 at: 00:09:31.397 With SocketAdress: /127.0.0.1:50331 Got removed by brute force
+2020-05-16 at: 00:10:01.777 With SocketAdress: [/127.0.0.1:50332] tryed to toin to Server
+2020-05-16 at: 00:10:01.778 With SocketAdress: [/127.0.0.1:50332] Successfully joined To Server
+2020-05-16 at: 00:10:15.039 With SocketAdress: /127.0.0.1:50332 Got removed from server
+2020-05-16 at: 00:10:15.043 With SocketAdress: /127.0.0.1:50332 Got removed by brute force
+2020-05-16 at: 14:32:40.380 With SocketAdress: [/127.0.0.1:50641] tryed to toin to Server
+2020-05-16 at: 14:32:40.506 With SocketAdress: [/127.0.0.1:50641] Successfully joined To Server
+2020-05-16 at: 14:32:58.086 With SocketAdress: /127.0.0.1:50641 Got removed by brute force
+2020-05-16 at: 14:33:07.674 With SocketAdress: [/127.0.0.1:50642] tryed to toin to Server
+2020-05-16 at: 14:33:07.674 With SocketAdress: [/127.0.0.1:50642] Successfully joined To Server
+2020-05-16 at: 14:35:15.581 With SocketAdress: [/127.0.0.1:50660] tryed to toin to Server
+2020-05-16 at: 14:35:15.585 With SocketAdress: [/127.0.0.1:50660] Successfully joined To Server
+2022-01-04 at: 17:53:59.084269100 With SocketAdress: [/192.168.1.51:60417] tried to join the log
+2022-01-04 at: 17:53:59.090267900 With SocketAdress: [/192.168.1.51:60417] Successfully joined To Server
+2022-01-04 at: 17:54:15.394488400 Player: Sam With SocketAdress: /192.168.1.51:60417 Got removed by brute force

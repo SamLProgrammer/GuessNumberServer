@@ -1,0 +1,3 @@
+2020-05-12 at: 12:35:54.007 Server started a round with guess number: 11 and these players: b, 
+2020-05-12 at: 12:35:57.930 Round finished with these players: 
+2020-05-12 at: 12:35:57.930 Round finished with Rank: 
